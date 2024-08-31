@@ -6,6 +6,7 @@
 
 ## Building
 1.Open `XignCodeBypass` with Microsoft Visual Studio 2022 (v143) and click `Build`.
+
 2.Overwrite the `x3.xem` file in the `XIGNCODE` folder and replace it.
 
 ## Note
